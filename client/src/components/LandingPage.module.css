@@ -1,0 +1,36 @@
+.landing{
+    background:url(../Imagenes/pexels-nastyasensei-335393.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 35rem;
+    padding: 5rem;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    font-size: 20px;    
+}
+
+.title{
+    text-align: left;
+    padding-top: 150px ;
+    }
+   
+.btn{
+    background-color: #4c81af; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    left: 200px;
+    width: 300px;
+    padding: 10px;
+        
+}
+.btn:hover {
+    background-color: #0d3e69; 
+    color: white;
+  }

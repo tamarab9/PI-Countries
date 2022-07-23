@@ -1,0 +1,41 @@
+.cardContainer{
+    background:url(../Imagenes/pexels-gradienta-7130475.jpg);
+    background-position: bottom ;
+    background-size: cover;
+    padding: 5px;
+    height: 50rem;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* width: 100%; */
+    font-size: 16px;   
+  }
+  .btnAz{
+  
+      background-color: #4c81af; 
+        border: none;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        justify-content: center;
+        margin: 10px;
+        padding: 5px;
+    }
+    .btnAz:hover {
+      background-color: #0d3e69; 
+      color: white;
+    }
+    
+    
+    .contPpal{
+      color: white;
+      justify-content: center;
+      text-align: center;
+    }
+   
+    
+    .load{
+      color: #0d3e69;
+    }
+   

@@ -1,0 +1,62 @@
+.formAct{
+  background:url(../Imagenes/pexels-copia-apichodilok-346696\ -\ copia.jpg);  
+  background-position: right;
+  background-size: cover;
+  height: 50rem;
+  padding: 5rem;
+  background-repeat: no-repeat;
+  color: rgb(0, 0, 0);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  /* width: 100%; */
+  font-size: 20px;    
+}
+
+
+.btnAz{
+
+  background-color: #4c81af; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    justify-content: center;
+    margin: 10px;
+    padding: 5px;
+}
+.btnAz:hover {
+  background-color: #0d3e69; 
+  color: white;
+}
+
+.btnMoz{
+  background-color:rgb(189, 198, 20); ; 
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  justify-content: center;
+  margin: 10px;
+  padding: 5px;
+  border: solid;
+  border-color: rgb(133, 140, 5);
+}
+.btnMoz:hover {
+  background-color:rgb(230, 237, 91);; 
+  color: white;
+}
+.btnRojo{
+  background-color:#c62c14; ; 
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  justify-content: center;
+}
+.btnRojo:hover {
+  background-color:#ef4127; 
+  color: white;
+}
+

@@ -1,0 +1,48 @@
+.searchContainer{
+  display: inline-block;
+  /* display:flex; */
+  overflow: hidden;
+  justify-content: center;
+
+   }
+
+   a:link {
+    color: rgb(189, 198, 20);
+
+  }
+  
+    a:hover {
+    color: rgb(230, 237, 91);
+    
+  }
+  
+   a:active {
+    color: rgb(189, 198, 20);
+  }
+
+   .btn{
+    background-color: #4c81af; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    justify-content: center;
+    }
+
+.btn:hover {
+    background-color: #0d3e69; 
+    color: white;
+  }
+
+   .input{ 
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    border-color:  #4c81af ;
+    background: white;
+    width:100%;
+    padding: 5px
+};
+   
+        
